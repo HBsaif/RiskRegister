@@ -1,0 +1,1 @@
+export const passwordFormat = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])((?=.*\W)|(?=.*_))^[^ ]+$/;
